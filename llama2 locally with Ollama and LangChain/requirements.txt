@@ -1,0 +1,4 @@
+langchain
+streamlit
+ollama
+langchain_community
