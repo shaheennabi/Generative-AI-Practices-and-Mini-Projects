@@ -4,4 +4,5 @@
 
 *  You will see some end-to-end generative ai projects here also, this repository will be updated regularly
 
-*  If you want you can give feedback
+*  If you want you can give feedback for this repository
+*  thanks for tuning here
