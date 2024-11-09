@@ -39,7 +39,7 @@ Stay tuned for:
 
 Feel free to reach out for collaboration or queries:
 - **Email**: [here](mailto:ishaheennabi333@gmail.com)
-- **LinKedin**: [shaheennabi](https://www.linkedin.com/in/shaheennabi/overlay/about-this-profile/)
+- **LinKedin**: [shaheennabi](https://www.linkedin.com/in/shaheennabi/)
 
 ---
 
