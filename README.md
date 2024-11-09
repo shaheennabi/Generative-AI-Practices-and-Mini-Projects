@@ -38,7 +38,7 @@ Stay tuned for:
 ## 📫 Contact
 
 Feel free to reach out for collaboration or queries:
-- **Email**: [ishaheennabi333@gmail.com](mailto:ishaheennabi333@gmail.com)
+- **Email**: [here](mailto:ishaheennabi333@gmail.com)
 - **GitHub**: [shaheennabi](https://github.com/shaheennabi.github.io)
 
 ---
