@@ -1,0 +1,3 @@
+[submodule "project/submodules/End-to-End-QA-GenAI-Project"]
+	path = project/submodules/End-to-End-QA-GenAI-Project
+	url = https://github.com/shaheennabi/End-to-End-QA-GenAI-Project.git
