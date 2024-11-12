@@ -4,3 +4,6 @@
 [submodule "End-to-End-QA-GenAI-Project"]
 	path = End-to-End-QA-GenAI-Project
 	url = https://github.com/shaheennabi/End-to-End-QA-GenAI-Project.git
+[submodule "Multi-lingual-AI-Assistant-with-gTTS-and-Gemini-Pro"]
+	path = Multi-lingual-AI-Assistant-with-gTTS-and-Gemini-Pro
+	url = https://github.com/shaheennabi/Multi-lingual-AI-Assistant-with-gTTS-and-Gemini-Pro.git
