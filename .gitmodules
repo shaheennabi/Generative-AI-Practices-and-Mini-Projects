@@ -7,3 +7,6 @@
 [submodule "Multi-lingual-AI-Assistant-with-gTTS-and-Gemini-Pro"]
 	path = Multi-lingual-AI-Assistant-with-gTTS-and-Gemini-Pro
 	url = https://github.com/shaheennabi/Multi-lingual-AI-Assistant-with-gTTS-and-Gemini-Pro.git
+[submodule "Untold-LangGraph"]
+	path = Untold-LangGraph
+	url = https://github.com/shaheennabi/Untold-LangGraph.git
