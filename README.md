@@ -1,4 +1,4 @@
-# Generative AI Experiments & Mini-Projects
+# Generative AI Experiments & Mini-Projects...
 
 Welcome to my Generative AI repository! 🌟 Here, I explore and experiment with a range of concepts and techniques in Generative AI. I’ll be building mini-projects, fine-tuning models, creating Retrieval-Augmented Generation (RAG) applications, working with agents, and implementing various generative AI concepts from scratch.
 
