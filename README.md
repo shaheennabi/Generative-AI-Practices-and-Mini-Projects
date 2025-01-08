@@ -34,15 +34,6 @@ Stay tuned for:
 1. **Star the Repository** 🌟: If you find this repository helpful or interesting.
 2. **Raise Issues**: If you encounter any issues or have suggestions for new experiments.
 3. **Fork & Pull Requests**: Feel free to contribute by adding new experiments, improving existing code, or adding new GenAI concepts.
-
----
-
-## 📫 Contact
-
-Feel free to reach out for collaboration or queries:
-- **Email**: [here](mailto:ishaheennabi333@gmail.com)
-- **LinKedin**: [shaheennabi](https://www.linkedin.com/in/shaheennabi/)
-
 ---
 
 Thank you for tuning in, and happy experimenting! 🌐✨
