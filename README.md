@@ -1,4 +1,4 @@
-# Generative AI Experiments & Mini-Projects..
+# Generative AI Experiments & Mini-Projects.
 
 ### Discussions box is open, you can ask anything & i will accept any pull request feel free to contribute (you can later use these projects in your resume etc)
 
