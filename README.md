@@ -1,7 +1,6 @@
 # Generative AI Experiments & Mini-Projects.
 
-### Discussions box is open, you can ask anything & i will accept any pull request feel free to contribute (you can later use these projects in your resume etc).
-
+### Discussions box is open, you can ask anything & i will accept any pull request feel free to contribute (you can later use these projects in your resume etc)..
 Welcome to my Generative AI repository! 🌟 Here, I explore and experiment with a range of concepts and techniques in Generative AI. I’ll be building mini-projects, fine-tuning models, creating Retrieval-Augmented Generation (RAG) applications, working with agents, and implementing various generative AI concepts from scratch..
 
 Please consider starring ⭐ this repository if you're interested in GenAI and want to stay updated on my journey through the field!
